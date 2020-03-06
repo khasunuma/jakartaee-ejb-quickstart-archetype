@@ -104,7 +104,6 @@
     <developerConnection>scm:git:https://github.com/khasunuma/jakartaee-ejb-quickstart-archetype.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
-  <!--
   <distributionManagement>
     <repository>
       <id>sonatype-nexus-staging</id>
@@ -118,5 +117,4 @@
       <url>http://charon.poortoys.com:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
-  -->
 </project>
