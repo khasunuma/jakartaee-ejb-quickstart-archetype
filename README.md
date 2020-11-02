@@ -1,5 +1,5 @@
 # jakartaee-ejb-quickstart-archetype
-Jakarta Enterprise Bean quick start template
+Jakarta EE Enterprise Bean Module Quick Start Template
 
 ## Requirements
 

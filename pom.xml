@@ -71,8 +71,8 @@
   </build>
   
   <!-- More Project Information -->
-  <name>Archetype for Jakarta EE Enterprise Bean Quick Start</name>
-  <description>Jakarta Enterprise Bean quick start template</description>
+  <name>jakartaee-ejb-quickstart-archetype</name>
+  <description>Jakarta EE Enterprise Bean Module Quick Start Template</description>
   <url>https://github.com/khasunuma/jakartaee-ejb-quickstart-archetype</url>
   <inceptionYear>2020</inceptionYear>
   <licenses>
